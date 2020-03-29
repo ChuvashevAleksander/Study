@@ -1,0 +1,35 @@
+[33mcommit d4f1543da029b4128c2ab4b07554a3487f760a12[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Aleksander Chuvashev <chuvashev.aleksander@gmail.com>
+Date:   Sun Mar 29 19:11:01 2020 +0400
+
+    delete txt file
+
+[33mcommit 67eeacc82b112605775b8c6bf01e01015d4f5afc[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aleksander Chuvashev <chuvashev.aleksander@gmail.com>
+Date:   Fri Mar 27 16:07:27 2020 +0400
+
+    123
+
+[33mcommit 60a8f30f81527faee6441126bd04e2820d49cba5[m
+Author: Aleksander Chuvashev <chuvashev.aleksander@gmail.com>
+Date:   Thu Mar 26 18:07:16 2020 +0400
+
+    add third line
+
+[33mcommit 6bf37dead2d037bd3aee3c92747689f512e35912[m
+Author: ChuvashevAleksander <47348301+ChuvashevAleksander@users.noreply.github.com>
+Date:   Thu Mar 26 15:56:58 2020 +0400
+
+    add second line
+
+[33mcommit 8d31970c76912b9a223e18c6fb4781ac18a55268[m
+Author: Aleksander Chuvashev <chuvashev.aleksander@gmail.com>
+Date:   Thu Mar 26 15:48:30 2020 +0400
+
+    add txt file
+
+[33mcommit a3a8a24d13ccdeba8bd67045c1eaf2cf62fc42b0[m
+Author: ChuvashevAleksander <47348301+ChuvashevAleksander@users.noreply.github.com>
+Date:   Thu Mar 26 15:24:13 2020 +0400
+
+    Initial commit
